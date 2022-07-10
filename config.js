@@ -1,5 +1,5 @@
 //=============『 Utama 』================== //
-global.owner = ['+856 20 52 906 199'] 
+global.owner = ['+6288210072756'] 
 global.mods = [] 
 global.prems = [] 
 
