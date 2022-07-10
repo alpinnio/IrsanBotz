@@ -1,32 +1,32 @@
 //=============『 Utama 』================== //
-global.owner = ['+856 20 52 906 199'] 
-global.mods = [] 
-global.prems = [] 
+global.owner = ['+6288210072756'] 
+global.mods = [+6288210072756] 
+global.prems = [+6288210072756] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'IRSAN UhuYyあ⁩⁩'
-global.numberowner = '+856 20 52 906 199'
-global.instagram = 'https://www.instagram.com/rfindru'
-global.github = 'https://github.com/ramlaidi'
-global.dana = '089691183687'
-global.pulsa = '089691183687'
-global.gopay = '-'
+global.nameowner = 'LuxxyXyz⁩⁩'
+global.numberowner = '+6288210072756'
+global.instagram = 'https://www.instagram.com/luxxyxzy'
+global.github = 'https://github.com/alpinnio'
+global.dana = '088210072756'
+global.pulsa = '088210072756'
+global.gopay = '088210072756'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'San-Md'
-global.gc = 'https://chat.whatsapp.com/LnigLfLe6RsAuHtTHB'
+global.namebot = 'LuxxyBot'
+global.gc = 'https://chat.whatsapp.com/LgHdo7T5dB7HNpSREiaBaT'
 global.web = 'https://youtube.com/channel/UCJx0dE2sYiST7vIACd' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '1minggu = 2000\n 1bulan = 4000\n permanen = 5000 Irsan♡Anya'
+global.price1 = '1minggu = 2000\n 1bulan = 4000\n permanen = 5000 Luxxy♥YorForger'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/e93e7d35611bc547ebbae.jpg' //ganti jadi foto bot mu
 global.fotonya2 = 'https://telegra.ph/file/e93e7d35611bc547ebbae.jpg' //ini juga ganti 
 global.lolkey = 'Sad-Bot' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'San-MD'
+global.wm = 'LuxxyXyz'
 global.watermark = wm
-global.wm2 = '                     「 San-MD あ⁩ 」'
-global.wm3 = '⫹⫺ San-MD'
+global.wm2 = '                     「 Luxxy Xyz 」'
+global.wm3 = '⫹⫺ LuxxyXyz'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/e93e7d35611bc547ebbae.jpg'
@@ -36,7 +36,7 @@ global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Sabar Memek Lagi Dibuat\n Oke Sudah Jadi Tol🤗🤗'
-global.packname = ''
+global.packname = 'LuxxyXyz'
 global.author = '•Jangan Nyolong Asu🗿🗿..\n•Stiker By SanBot-Md\n•IrsanGanz\n•NomorBot:+37259025147\nSc?Buy 5k Full Apikey'
 
 //=============『 Apikey 』================== //
